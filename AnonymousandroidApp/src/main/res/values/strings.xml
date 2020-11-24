@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">KnockKnock</string>
+    <string name="quote" translatable="false"> “Everybody wants to be famous, but nobody wants to do the work. I live by that. You grind hard so you can play hard. At the end of the day, you put all the work in, and eventually it’ll pay off. It could be in a year, it could be in 30 years. Eventually, your hard work will pay off.” — Kevin Hart</string>
+    <string name="tool_blog" translatable="false">Knock Post</string>
+    <string name="quote_thai" translatable="false">สังคมเราในปัจจุบันนี้โลกเราได้มีเทคโนโลยีมาเกี่ยวข้องอย่างมากในชีวิตของคนไทยเรา ทำให้มีความสะดวกในการใช้ชีวิตประจำวันรวมทั้งการสื่อสารด้วย ซึ่งในประเทศไทยนี้เยาวชนยุคใหม่บางส่วนได้นำค่านิยมผิด ๆ มาใช้กัน นั้นก็คือการใช้ภาษาไทยที่ผิด โดยเยาวชนกลุ่มนั้นคิดว่าเมื่อใช้แล้วมันเก๋ดี มันเท่ห์ดี แต่หารู้ไม่ว่าอาจจะทำให้ภาษาไทยของเราเปลี่ยนไปโดยสิ้นเชิงและทำให้เยาวชนยุคหลังๆใช้ภาษาไทยไม่ถูกต้องตามไปด้วย ประเทศไทยของเรามีภาษาเป็นของตนเองแสดงออกถึงความเป็นเอกราชและความภาคภูมิใจของคนไทยเรา ภาษาไทยเป็นมรดกของคนไทยมายาวนาน แต่เยาวชนยุคบางส่วนใหม่กลับไม่รู้คุณค่าของมันเลย</string>
+    <string name="time_holder" translatable="false">00/00/00 00:00 </string>
+    <string name="blog_menu">Blog</string>
+    <string name="chat_menu">Chat</string>
+    <string name="setting_menu">Setting</string>
+    <string name="write_blog_menu">Write your post</string>
+    <string name="title">Topic</string>
+    <string name="description">Description</string>
+    <string name="please_write">Write your message</string>
+    <string name="gps_title">Please turn on your GPS</string>
+    <string name="gps_message">Turn on your GPS for find the post</string>
+    <string name="gps_confirm">Open GPS</string>
+    <string name="gps_dismiss">Dismiss</string>
+    <string name="author_message">Author</string>
+
+    <string name="minutes">minute</string>
+    <string name="hours">hour</string>
+    <string name="days">day</string>
+
+</resources>

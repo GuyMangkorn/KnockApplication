@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\build\\intermediates\\res\\merged\\debug\\drawable_sticky_notes.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\src\\main\\res\\drawable\\sticky_notes.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\build\\intermediates\\res\\merged\\debug\\layout_item_blog.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\src\\main\\res\\layout\\item_blog.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_image_24.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\src\\main\\res\\drawable\\ic_baseline_image_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_star_24.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\src\\main\\res\\drawable\\ic_baseline_star_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\build\\intermediates\\res\\merged\\debug\\font_playfair_bold.ttf.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\src\\main\\res\\font\\playfair_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_blog.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\src\\main\\res\\layout\\activity_main_blog.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\build\\intermediates\\res\\merged\\debug\\drawable_post_item.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\src\\main\\res\\drawable\\post_item.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\build\\intermediates\\res\\merged\\debug\\drawable_pen.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\src\\main\\res\\drawable\\pen.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_chat_bubble_outline_24.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\src\\main\\res\\drawable\\ic_baseline_chat_bubble_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\build\\intermediates\\res\\merged\\debug\\layout_fragment_setting.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\src\\main\\res\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\build\\intermediates\\res\\merged\\debug\\drawable_chat.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\src\\main\\res\\drawable\\chat.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\build\\intermediates\\res\\merged\\debug\\menu_toolbar_blog_menu.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\src\\main\\res\\menu\\toolbar_blog_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\build\\intermediates\\res\\merged\\debug\\drawable_save.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\src\\main\\res\\drawable\\save.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\build\\intermediates\\res\\merged\\debug\\layout_activity_write_blog.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\src\\main\\res\\layout\\activity_write_blog.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\build\\intermediates\\res\\merged\\debug\\font_serif_bold.ttf.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\src\\main\\res\\font\\serif_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_forum_24.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\src\\main\\res\\drawable\\ic_baseline_forum_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_settings_24.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\src\\main\\res\\drawable\\ic_baseline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_chat_bubble_24.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\src\\main\\res\\drawable\\ic_baseline_chat_bubble_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_star_outline_24.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\src\\main\\res\\drawable\\ic_baseline_star_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\build\\intermediates\\res\\merged\\debug\\layout_fragment_chat.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\src\\main\\res\\layout\\fragment_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_send_24.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\src\\main\\res\\drawable\\ic_baseline_send_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\build\\intermediates\\res\\merged\\debug\\layout_fragment_blog.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\src\\main\\res\\layout\\fragment_blog.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_arrow_back_ios_24.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\src\\main\\res\\drawable\\ic_baseline_arrow_back_ios_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\build\\intermediates\\res\\merged\\debug\\layout_item_comment.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\src\\main\\res\\layout\\item_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\build\\intermediates\\res\\merged\\debug\\drawable_settings.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\KMM\\AnonymousandroidApp\\src\\main\\res\\drawable\\settings.png"
+    }
+]

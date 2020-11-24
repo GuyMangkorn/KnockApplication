@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="blog_menu">หัวข้อ</string>
+    <string name="chat_menu">แชท</string>
+    <string name="setting_menu">ตั้งค่า</string>
+    <string name="write_blog_menu">เขียนโพสของคุณ</string>
+    <string name="title">หัวข้อ</string>
+    <string name="description">เนื้อความ</string>
+    <string name="please_write">เขียนข้อความ</string>
+    <string name="gps_title">กรุณาเปิด GPS ของท่าน</string>
+    <string name="gps_message">เปิด GPS เพื่อค้นหาระยะทางของโพสที่อยู่ใก้ลเคียง</string>
+    <string name="gps_confirm">ไปหน้าเปิด GPS</string>
+    <string name="gps_dismiss">ยกเลิก</string>
+    <string name="author_message">ผู้เขียน</string>
+
+    <string name="minutes">นาที</string>
+    <string name="hours">ชั่วโมง</string>
+    <string name="days">วัน</string>
+</resources>

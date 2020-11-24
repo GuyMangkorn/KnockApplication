@@ -1,0 +1,53 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/pink_200</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="fontFamily">@font/lora_regular</item>
+    </style>
+
+
+
+
+    <style name="TextAppearance.App.Button" parent="TextAppearance.MaterialComponents.Button">
+        <item name="fontFamily">@font/playfair_bold</item>
+        <item name="android:fontFamily">@font/playfair_bold</item>
+    </style>
+
+    <style name="Theme.MaterialComponents.TabLayoutPink">
+        <item name="tabStyle">@style/Widget.MaterialComponents.TabLayout</item>
+        <item name="tabTextAppearance">@style/TextAppearance.App.Button</item>
+        <item name="colorPrimary">@color/shrine_3</item>
+        <item name="colorSurface">@color/pink_100</item>
+        <item name="colorOnSurface">@color/colorWhite</item>
+    </style>
+
+    <style name="Theme.MaterialComponents.CardViewWhite">
+        <item name="cardViewStyle">@style/Widget.MaterialComponents.CardView</item>
+        <item name="colorPrimary">@color/pink_600</item>
+        <item name="colorSurface">@color/colorWhite</item>
+        <item name="colorOnSurface">@color/shrine_2</item>
+    </style>
+
+    <style name="Theme.MaterialComponents.ToolbarPink">
+        <item name="toolbarStyle">@style/Widget.MaterialComponents.Toolbar.Primary</item>
+        <item name="colorPrimary">@color/pink_100</item>
+        <item name="colorSurface">@color/shrine_1</item>
+        <item name="colorOnSurface">@color/Grey</item>
+    </style>
+
+
+
+    <style name="Theme.MaterialComponents.FloatingButtonPink" >
+        <item name="floatingActionButtonStyle">@style/Widget.MaterialComponents.FloatingActionButton</item>
+        <item name="colorSecondary">@color/shrine_2</item>
+        <item name="colorOnSecondary">@color/shrine_3</item>
+        <item name="colorOnSurface">@color/shrine_1</item>
+    </style>
+
+
+</resources>

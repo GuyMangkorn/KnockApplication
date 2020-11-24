@@ -1,0 +1,2 @@
+com/example/anonymouschat/AnonymousandroidApp/BuildConfig.java
+ com.example.anonymouschat.AnonymousandroidApp.BuildConfig

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "332943175535",
+    "firebase_url": "https://anonymoussocial-cfece.firebaseio.com",
+    "project_id": "anonymoussocial-cfece",
+    "storage_bucket": "anonymoussocial-cfece.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332943175535:android:ee7fd4a09111090062429a",
+        "android_client_info": {
+          "package_name": "com.example.anonymouschat.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332943175535-dqj9irgi81h56mgpripb1en4ld18g0sn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anonymouschat.android",
+            "certificate_hash": "47988be41b348c4ef8ab6c005e3b987b7e4ac9a7"
+          }
+        },
+        {
+          "client_id": "332943175535-d7vs3g463qioq6q8k8o984paapfr382d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjO2jKO66d4pjStruhdtJfm8K4dXvqrvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332943175535-d7vs3g463qioq6q8k8o984paapfr382d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="view8dp" type="dimen">8dp</item>
+    <item name="view4dp" type="dimen">4dp</item>
+    <item name="view12dp" type="dimen">12dp</item>
+    <item name="view38dp" type="dimen">38dp</item>
+    <item name="view40dp" type="dimen">40dp</item>
+    <item name="view56dp" type="dimen">56dp</item>
+    <item name="view20dp" type="dimen">20dp</item>
+    <item name="view24dp" type="dimen">24dp</item>
+    <item name="view88dp" type="dimen">88dp</item>
+
+
+    <item name="text8sp" type="dimen">8sp</item>
+    <item name="text10sp" type="dimen">10sp</item>
+    <item name="text11sp" type="dimen">11sp</item>
+    <item name="text12sp" type="dimen">12sp</item>
+    <item name="text14sp" type="dimen">14sp</item>
+    <item name="text16sp" type="dimen">16sp</item>
+    <item name="text18sp" type="dimen">18sp</item>
+    <item name="text20sp" type="dimen">20sp</item>
+
+</resources>

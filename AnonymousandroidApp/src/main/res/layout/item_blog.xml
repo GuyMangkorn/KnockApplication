@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cardBlog"
+    android:theme="@style/Theme.MaterialComponents.CardViewWhite"
+    android:clickable="true"
+    app:cardCornerRadius="0dp"
+    android:focusable="true"
+    android:elevation="0dp">
+<RelativeLayout
+    android:layout_marginBottom="@dimen/view8dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:id="@+id/linearItem"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:textStyle="bold"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:textColor="@color/shrine_3"
+            android:id="@+id/titleBlog"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="4dp"
+            android:paddingBottom="2dp"
+            android:paddingStart="10dp"
+            android:paddingEnd="@dimen/view8dp"
+            android:text="@string/blog_menu"
+            android:textSize="@dimen/text14sp" />
+        <TextView
+            android:id="@+id/descriptionBlog"
+            android:paddingBottom="@dimen/view4dp"
+            android:ellipsize="end"
+            android:paddingStart="@dimen/view8dp"
+            android:paddingEnd="@dimen/view12dp"
+            android:maxLines="2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/Grey"
+            android:textSize="13sp"
+            android:text="@string/description"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_below="@id/linearItem"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageButton
+            android:id="@+id/buttonStar"
+            android:layout_width="@dimen/view20dp"
+            android:layout_height="@dimen/view20dp"
+            android:layout_gravity="center"
+            android:layout_marginStart="@dimen/view8dp"
+            android:layout_marginTop="@dimen/view4dp"
+            android:layout_marginBottom="@dimen/view4dp"
+            android:background="@drawable/ic_baseline_star_outline_24" />
+        <TextView
+            android:id="@+id/textStar"
+            android:layout_marginEnd="@dimen/view24dp"
+            android:textSize="@dimen/text11sp"
+            android:text="0"
+            android:layout_gravity="center"
+            android:textColor="@color/Grey"
+            android:layout_width="@dimen/view38dp"
+            android:layout_height="wrap_content"/>
+
+        <ImageButton
+            android:id="@+id/buttonComment"
+            android:layout_gravity="center"
+            android:layout_margin="@dimen/view4dp"
+            android:layout_width="18dp"
+            android:layout_height="18dp"
+            android:background="@drawable/ic_baseline_chat_bubble_outline_24"/>
+
+        <TextView
+            android:id="@+id/textComment"
+            android:layout_width="@dimen/view38dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="0"
+            android:textColor="@color/Grey"
+            android:textSize="@dimen/text11sp" />
+        <LinearLayout
+            android:layout_gravity="center"
+            android:gravity="end"
+            android:layout_margin="@dimen/view4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/textTimeBlog"
+            android:textSize="@dimen/text12sp"
+            android:text="0 นาที"
+            android:textColor="@color/Grey"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>
+    <View
+        android:layout_gravity="bottom"
+        android:id="@+id/divider"
+        android:layout_marginStart="@dimen/view12dp"
+        android:layout_marginEnd="@dimen/view12dp"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/shrine_2"/>
+</com.google.android.material.card.MaterialCardView>
